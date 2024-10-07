@@ -1,5 +1,5 @@
-⏳ Pomodoro Timer App
-Welcome to the Pomodoro Timer App! This simple and intuitive application helps you boost your productivity using the Pomodoro Technique, built with Python's Tkinter.
+# ⏳ Pomodoro Timer App
+Welcome to the Pomodoro Timer App! This simple application helps you boost your productivity using the Pomodoro Technique, built with Python's Tkinter.
 
 # Features
 - Work Sessions: Customize and start your work sessions.
